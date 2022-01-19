@@ -16,3 +16,6 @@
 ## Links
 - [Github link](https://github.com/Rasagna0409)
 
+## My Image
+
+ ![Me](https://github.com/Rasagna0409/big-data-dev/blob/main/Me.jfif)
